@@ -1,6 +1,7 @@
 body {
   background-color: white;
 }
+
 .well {
   padding:6px;
   background-color: #cdf2d4;
@@ -42,15 +43,17 @@ body {
   background-color: red;
   margin: 10px;
   float: right;
+  padding-right: 90px;
 }
 
 .side-bar{
-  border 1px solid grey;
-  background-color: pink;
+  background-color: grey;
   float: left;
   text-align: none;
+  padding-right: 20px;
 }
 
-li{
+.side-bar li{
   list-style-type: none;
+  padding: 5px;
 }
