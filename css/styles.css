@@ -9,19 +9,27 @@ h5 {
 
 .well {
   padding:6px;
-  background-color: #cdf2d4;
+  background-color: white;
   border-style: solid;
   border-color: black;
   border-width: 1px;
 }
 
-.heading {
-  background-color: white;
+.blue-box h5{
+  background-color: #a0dcff;
+}
+
+.green-box h5 {
+  background-color: #bfffc3;
+}
+
+.purple-box h5{
+  background-color: #e4d3ff;
 }
 
 .blue-box {
   padding: 6px;
-  background-color: #98c5ea;
+  background-color: white;
   border-style: solid;
   border-color: black;
   border-width: 1px;
@@ -29,7 +37,7 @@ h5 {
 
 .purple-box {
   padding:6px;
-  background-color: #9264AA;
+  background-color: white;
   border-style: solid;
   border-color: black;
   border-width: 1px;
