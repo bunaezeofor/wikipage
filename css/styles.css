@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: white;
 }
 .well {
   padding:6px;
@@ -29,10 +29,28 @@ body {
   border-width: 1px;
 }
 
+.row-one {
+  padding:6px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
 .grid-wrapper {
   border 1px solid grey;
   background-color: red;
-  float:right;
   margin: 10px;
+  float: right;
+}
 
+.side-bar{
+  border 1px solid grey;
+  background-color: pink;
+  float: left;
+  text-align: none;
+}
+
+li{
+  list-style-type: none;
 }
