@@ -1,0 +1,38 @@
+body {
+  background-color: pink;
+}
+.well {
+  padding:6px;
+  background-color: #cdf2d4;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.heading {
+  background-color: white;
+}
+
+.blue-box {
+  padding: 6px;
+  background-color: #98c5ea;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.purple-box {
+  padding:6px;
+  background-color: #9264AA;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.grid-wrapper {
+  border 1px solid grey;
+  background-color: red;
+  float:right;
+  margin: 10px;
+
+}
